@@ -23,7 +23,8 @@
 
 | Projeto | O que faz | Feito com |
 |---|---|---|
-| [**AuraTime**](https://github.com/nilknarfsam/auratime) | App de controle de horas | Flutter |
+| [**CortexFlow**](https://github.com/nilknarfsam/cortexflow) | Transcreve áudio, vídeo, PDF e imagens para alimentar IAs, 100% offline | C# / .NET 9 |
+| [**AuraTime**](https://github.com/nilknarfsam/auratime) | App de controle de jornada e saldo de horas | Flutter |
 | **Rô Precifica** | Precificação e receitas para confeitaria | Flutter |
 | [**Disk Cleaner**](https://github.com/nilknarfsam/disk_cleaner) | Limpa e formata HD/SSD USB no Windows | C# |
 | [**samfieldsoak.com.br**](https://github.com/nilknarfsam/site-samfieldsoak) | Meu site pessoal | JavaScript |
